@@ -3,5 +3,5 @@ V2ray搭建视频教程：https://youtu.be/LVu4NmXVIGE
 
 **V2Ray一键安装代码：**<br>
 
-    bash <(curl -sL https://cdn.jsdelivr.net/gh/Misaka-blog/Xray-script@master/xray.sh)
+    bash <(curl -sL https://raw.githubusercontent.com/eujc/v2ray/main/xray.sh)
 
